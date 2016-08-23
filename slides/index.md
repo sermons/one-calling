@@ -1,5 +1,6 @@
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-# CECBC Retreat: Unite!  ## Ephesians 4
+# CECBC Retreat: Unite!
+## Ephesians 4
 ## (Thu am) One Calling (v1-3)
 
 >>>
