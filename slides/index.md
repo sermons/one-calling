@@ -1,9 +1,17 @@
 <!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
-# One Calling
-## Ephesians 4:1-3
+# CECBC Retreat: Unite!
+## Ephesians 4
+### (Thu am) One Calling (v1-3)
 
 >>>
 [one-calling](http://one-calling.seanho.com/)
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+## Unite! (Eph4)
+1. (Thu am) **One Calling** <span class="hl2">(v1-3)</span>
+2. (Thu pm) **One Body** <span class="hl2">(v11-13</span>
+3. (Sun am) **One Faith** <span class="hl2">(v14-16)</span>
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
