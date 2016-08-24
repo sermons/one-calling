@@ -60,12 +60,12 @@ through the **bond of peace**.
 
 <div class="imgbox"><div>
 <ul>
-<li> [Eph3:1](https://mobile.biblegateway.com/passage/?search=eph3.1)
+<li> [3:1](https://mobile.biblegateway.com/passage/?search=eph3.1)
   for the sake of us **Gentiles**</li><ul>
-  <li> [(Ac21)](https://mobile.biblegateway.com/passage/?search=ac21.27-29) </li>
+  <li> (Arrest in [Ac21](https://mobile.biblegateway.com/passage/?search=ac21.27-29) ) </li>
   </ul>
-<li> [Eph3:7](https://mobile.biblegateway.com/passage/?search=eph3.7)
-  servant of this **gospel**</li>
+<li> [3:7](https://mobile.biblegateway.com/passage/?search=eph3.7)
+  servant of **gospel**</li>
 </ul>
 
 <p/>
@@ -149,18 +149,66 @@ of all the fullness of God.
 <!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 
 ## Eph4:1-3 One Calling
-1. Worthy of the **Call** <span class="hl2">(v1)</span>
-2. **Humility** and Gentleness <span class="hl2">(2a)</span>
-3. **Patience** and Bearing <span class="hl2">(2b)</span>
-4. **Unity** in the Spirit <span class="hl2">(3)</span>
+1. Worthy of the *Call* <span class="hl2">(v1)</span>
+2. **Humility and Gentleness** <span class="hl2">(2a)</span>
+3. *Patience* and Bearing <span class="hl2">(2b)</span>
+4. *Unity* in the Spirit <span class="hl2">(3)</span>
+
+>>>
++ 2 pairs + unity
 
 ---
-## Ephesians 4:2-3 (NIV) (p.2/2)
-Be completely **humble** and **gentle**; <br/>
-be **patient**, **bearing** with one another in love.
+## Be Completely Humble and Gentle
++ Humble: submit **thinking** / values to God
+  + and to each other:
+  [Phil 2:3](https://mobile.biblegateway.com/passage/?search=php2.3),
+  [Eph 5:21](https://mobile.biblegateway.com/passage/?search=eph5.21)
++ Gentle: **meek** is not weak!
+  + inherit the earth
+  [(Mt 5:5)](https://mobile.biblegateway.com/passage/?search=mt5.5),
+  learn from Jesus
+  [(Mt 11:29)](https://mobile.biblegateway.com/passage/?search=mt11.29)
+
+---
+<!-- .slide: class="Q" data-background="white" -->
+# Q2
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+
+## Eph4:1-3 One Calling
+1. Worthy of the *Call* <span class="hl2">(v1)</span>
+2. *Humility* and Gentleness <span class="hl2">(2a)</span>
+3. **Patience and Bearing** <span class="hl2">(2b)</span>
+4. *Unity* in the Spirit <span class="hl2">(3)</span>
+
+---
+
+## Be Patient and Forebearing
++
+
+---
+<!-- .slide: class="Q" data-background="white" -->
+# How do I handle **stress**?
+# What if it's from **church**?
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+
+## Eph4:1-3 One Calling
+1. Worthy of the *Call* <span class="hl2">(v1)</span>
+2. *Humility* and Gentleness <span class="hl2">(2a)</span>
+3. *Patience* and Bearing <span class="hl2">(2b)</span>
+4. **Unity in the Spirit** <span class="hl2">(3)</span>
+
+---
 
 Make every **effort** to keep <br/>
 the **unity** of the Spirit <br/>
 through the **bond of peace**.
 
+---
+<!-- .slide: class="Q" data-background="white" -->
+# What **divides** us from the world?
+# What **divisions** are overcome in the Spirit?
 
