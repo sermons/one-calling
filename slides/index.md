@@ -45,9 +45,9 @@ through the **bond of peace**.
 
 ## Eph4:1-3 One Calling
 1. Worthy of the **Call** <span class="hl2">(v1)</span>
-2. **Humility** and Gentleness <span class="hl2">(2a)</span>
-3. **Patience** and Bearing <span class="hl2">(2b)</span>
-4. **Unity** in the Spirit <span class="hl2">(3)</span>
+2. **Humility** and Gentleness <span class="hl2">(v2a)</span>
+3. **Patience** and Bearing <span class="hl2">(v2b)</span>
+4. **Unity** in the Spirit <span class="hl2">(v3)</span>
 
 >>>
 + 3 areas of application
@@ -148,9 +148,9 @@ of all the fullness of God.
 
 ## Eph4:1-3 One Calling
 1. Worthy of the *Call* <span class="hl2">(v1)</span>
-2. **Humility and Gentleness** <span class="hl2">(2a)</span>
-3. *Patience* and Bearing <span class="hl2">(2b)</span>
-4. *Unity* in the Spirit <span class="hl2">(3)</span>
+2. **Humility and Gentleness** <span class="hl2">(v2a)</span>
+3. *Patience* and Bearing <span class="hl2">(v2b)</span>
+4. *Unity* in the Spirit <span class="hl2">(v3)</span>
 
 >>>
 + 2 pairs + unity
@@ -163,24 +163,23 @@ of all the fullness of God.
   [Eph 5:21](https://mobile.biblegateway.com/passage/?search=eph5.21)
 + Gentle: **meek** is not weak!
   + inherit the earth
-  [(Mt 5:5)](https://mobile.biblegateway.com/passage/?search=mt5.5),
-  learn from Jesus
+  [(Mt 5:5)](https://mobile.biblegateway.com/passage/?search=mt5.5)
+  + learn from Jesus
   [(Mt 11:29)](https://mobile.biblegateway.com/passage/?search=mt11.29)
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-## When have I been so **sure** I was **right**,
-## but I was actually **wrong**?
-## What **thinking** do I need to submit to God?
+## Have I ever been **sure** I was **right**, <br/> but I was actually **wrong**?
+## What **thoughts** or **values** <br/> do I need to submit to God?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 
 ## Eph4:1-3 One Calling
 1. Worthy of the *Call* <span class="hl2">(v1)</span>
-2. *Humility* and Gentleness <span class="hl2">(2a)</span>
-3. **Patience and Bearing** <span class="hl2">(2b)</span>
-4. *Unity* in the Spirit <span class="hl2">(3)</span>
+2. *Humility* and Gentleness <span class="hl2">(v2a)</span>
+3. **Patience and Bearing** <span class="hl2">(v2b)</span>
+4. *Unity* in the Spirit <span class="hl2">(v3)</span>
 
 ---
 
@@ -204,9 +203,9 @@ of all the fullness of God.
 
 ## Eph4:1-3 One Calling
 1. Worthy of the *Call* <span class="hl2">(v1)</span>
-2. *Humility* and Gentleness <span class="hl2">(2a)</span>
-3. *Patience* and Bearing <span class="hl2">(2b)</span>
-4. **Unity in the Spirit** <span class="hl2">(3)</span>
+2. *Humility* and Gentleness <span class="hl2">(v2a)</span>
+3. *Patience* and Bearing <span class="hl2">(v2b)</span>
+4. **Unity in the Spirit** <span class="hl2">(v3)</span>
 
 ---
 
