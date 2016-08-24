@@ -28,13 +28,11 @@
   + How do we **live up** to it?
 
 ---
-## Ephesians 4:1 (NIV) (p.1/2)
+## Ephesians 4:1-3 (NIV)
 As a **prisoner** for the Lord, then, <br/>
 I urge you to **live** a life **worthy** <br/>
 of the **calling** you have received.
 
----
-## Ephesians 4:2-3 (NIV) (p.2/2)
 Be completely **humble** and **gentle**; <br/>
 be **patient**, **bearing** with one another in love.
 
@@ -171,7 +169,9 @@ of all the fullness of God.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q2
+## When have I been so **sure** I was **right**,
+## but I was actually **wrong**?
+## What **thinking** do I need to submit to God?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
@@ -185,7 +185,14 @@ of all the fullness of God.
 ---
 
 ## Be Patient and Forebearing
-+
++ **Patient**: large-turmoil (boiling, smoke)
+  + Long-suffering: e.g., forgive debt
+  [(Mt18:26)](https://mobile.biblegateway.com/passage/?search=mt18.21-35)
++ **Bearing** with one another in love:
+  + endure, tolerate, put up with
+
+>>>
++ dealing with stress
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -207,8 +214,34 @@ Make every **effort** to keep <br/>
 the **unity** of the Spirit <br/>
 through the **bond of peace**.
 
+>>>
++ **effort**: eager, hurry, zeal, take seriously
+  + **keep**: guard, treasure, protect
++ **bond**: fetter, cf v1 prisoner in Lord
+  + not **free** to do own thing
+  + constrained for sake of **peace**
++ unity of **Spirit**:
+  + Christ **defines** our unity
+  + not friend with **world** (Jam)
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # What **divides** us from the world?
-# What **divisions** are overcome in the Spirit?
+# What divisions are **overcome** in the Spirit?
 
+---
+<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+## Ephesians 4:1-3 (NIV)
+As a **prisoner** for the Lord, then, <br/>
+I urge you to **live** a life **worthy** <br/>
+of the **calling** you have received.
+
+Be completely **humble** and **gentle**; <br/>
+be **patient**, **bearing** with one another in love.
+
+Make every **effort** to keep <br/>
+the **unity** of the Spirit <br/>
+through the **bond of peace**.
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" class="empty" -->
