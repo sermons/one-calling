@@ -8,10 +8,13 @@
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-## Unite! (Eph4)
-1. (Thu am) **One Calling** <span class="hl2">(v1-3)</span>
-2. (Thu pm) **One Body** <span class="hl2">(v11-13)</span>
-3. (Sun am) **One Faith** <span class="hl2">(v14-16)</span>
+## Unite! (Ephesians 4)
+1. <span class="hl1">(Thu am)</span>
+  **One Calling** <span class="hl2">(v1-3)</span>
+2. <span class="hl1">(Thu pm)</span>
+  **One Body** <span class="hl2">(v11-13)</span>
+3. <span class="hl1">(Sun am)</span>
+  **One Faith** <span class="hl2">(v14-16)</span>
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -54,6 +57,9 @@ through the **bond of peace**.
 
 ---
 ## Prisoner for the Lord
+
+<div class="imgbox"><div>
+
 + [Eph3:1](https://mobile.biblegateway.com/passage/?search=eph3.1)
   for the sake of us **Gentiles**
   + [(Ac21)](https://mobile.biblegateway.com/passage/?search=ac21.27-29)
@@ -79,7 +85,7 @@ through the **bond of peace**.
 ---
 <!-- data-background-image="static/bg/" creator -->
 
-## The Calling You Have Received (3:6, NIV)
+## Calling You Received (3:6, NIV)
 This **mystery** is that through the gospel <br/>
 the Gentiles are **heirs together** with Israel, <br/>
 members together of **one body**, and <br/>
@@ -97,15 +103,21 @@ members together of **one body**, and <br/>
   + Now we **walk** in it
 
 ---
-## Called to Love (3:17-19, NIV)
-I pray that you, <br/>
-being **rooted** and established in love, <br/>
-may have **power**, <br/>
-together with all the Lord’s holy people,
+## Called to Love (3:17-19, NIV, 1/2)
+I pray that you,
 
-to **grasp** how wide and long and high <br/>
-and deep is the **love of Christ**, <br/>
-and to **know** this love that surpasses knowledge -- <br/>
+being **rooted** and established in love,
+
+may have **power**, <br/>
+together with all the Lord’s holy people, ...
+
+---
+## Called to Love (3:17-19, NIV, 2/2)
+... to **grasp** how wide and long <br/>
+and high and deep is the **love of Christ**,
+
+and to **know** this love that surpasses knowledge --
+
 that you may be **filled** to the measure <br/>
 of all the fullness of God.
 
@@ -119,12 +131,12 @@ of all the fullness of God.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# **Who** are you?
+# What **defines** you?
 # What does it mean to live life to the **fullest**?
 
 >>>
-+ Defined by **job**, talent, hobbies, family?
-  + Or by **Creator**?
++ **job**, talent, hobbies, family?
+  + Or defn by **Creator**?
 + Fullest: no **regrets**?
   + Explore / travel / experience?
   + **Help** others? How?
