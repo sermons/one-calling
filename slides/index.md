@@ -1,6 +1,7 @@
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
-# CECBC Retreat: Unite!
-## Thu am: One Calling (Eph4:1-3)
+# One Calling
+## Eph4:1-3 (Thu am)
+## CECBC Retreat: Unite!
 
 >>>
 [one-calling](http://one-calling.seanho.com/)
