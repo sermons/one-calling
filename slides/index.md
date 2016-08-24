@@ -59,19 +59,22 @@ through the **bond of peace**.
 ## Prisoner for the Lord
 
 <div class="imgbox"><div>
+<ul>
+<li> [Eph3:1](https://mobile.biblegateway.com/passage/?search=eph3.1)
+  for the sake of us **Gentiles**</li><ul>
+  <li> [(Ac21)](https://mobile.biblegateway.com/passage/?search=ac21.27-29) </li>
+  </ul>
+<li> [Eph3:7](https://mobile.biblegateway.com/passage/?search=eph3.7)
+  servant of this **gospel**</li>
+</ul>
 
-+ [Eph3:1](https://mobile.biblegateway.com/passage/?search=eph3.1)
-  for the sake of us **Gentiles**
-  + [(Ac21)](https://mobile.biblegateway.com/passage/?search=ac21.27-29)
-+ [Eph3:7](https://mobile.biblegateway.com/passage/?search=eph3.7)
-  servant of this **gospel**
-
+<p/>
 <div class="caption">
 [Rembrandt, "Apostle Paul"](http://bilddatenbank.khm.at/viewArtefact?id=1514),
 ~1633 (Kunsthistorisches Museum, Vienna)
 </div>
 
-</div><div style="flex:2">
+</div><div>
 ![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul-WGA19120.jpg)
 </div></div>
 
@@ -86,7 +89,8 @@ through the **bond of peace**.
 <!-- data-background-image="static/bg/" creator -->
 
 ## Calling You Received (3:6, NIV)
-This **mystery** is that through the gospel <br/>
+This **mystery** is that through the gospel
+
 the Gentiles are **heirs together** with Israel, <br/>
 members together of **one body**, and <br/>
 **sharers** together in the **promise** in Christ Jesus.
@@ -104,8 +108,7 @@ members together of **one body**, and <br/>
 
 ---
 ## Called to Love (3:17-19, NIV, 1/2)
-I pray that you,
-
+I pray that you, <br/>
 being **rooted** and established in love,
 
 may have **power**, <br/>
