@@ -105,6 +105,7 @@ members together of **one body**, and <br/>
   + Now we **walk** in it
 
 ---
+<!-- data-background-image="static/bg/" heart -->
 ## Called to Love (3:17-19, NIV, 1/2)
 I pray that you, <br/>
 being **rooted** and established in love,
@@ -113,6 +114,7 @@ may have **power**, <br/>
 together with all the Lord’s holy people, ...
 
 ---
+<!-- data-background-image="static/bg/" heart -->
 ## Called to Love (3:17-19, NIV, 2/2)
 ... to **grasp** how wide and long <br/>
 and high and deep is the **love of Christ**,
