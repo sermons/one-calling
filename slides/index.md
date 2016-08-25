@@ -18,7 +18,7 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What does "**calling**" mean to you?
+# What is God's **calling** for you?
 
 >>>
 + **career**, education?
@@ -28,6 +28,7 @@
   + How do we **live up** to it?
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 ## Ephesians 4:1-3 (NIV)
 As a **prisoner** for the Lord, then, <br/>
 I urge you to **live** a life **worthy** <br/>
@@ -52,6 +53,14 @@ through the **bond of peace**.
 >>>
 + 3 areas of application
 + but first: what is the call?
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
+## 1. Worthy of the Call
+As a **prisoner** for the Lord, then,
+
+I urge you to **live** a life **worthy** <br/>
+of the **calling** you have received.
 
 ---
 ## Prisoner for the Lord
@@ -84,7 +93,7 @@ through the **bond of peace**.
 + **what** is this mystery?
 
 ---
-<!-- data-background-image="static/bg/" creator -->
+<!-- .slide: data-background-image="static/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 
 ## Calling You Received (3:6, NIV)
 This **mystery** is that through the gospel
@@ -105,7 +114,7 @@ members together of **one body**, and <br/>
   + Now we **walk** in it
 
 ---
-<!-- data-background-image="static/bg/" heart -->
+<!-- .slide: data-background-image="static/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
 ## Called to Love (3:17-19, NIV, 1/2)
 I pray that you, <br/>
 being **rooted** and established in love,
@@ -114,7 +123,7 @@ may have **power**, <br/>
 together with all the Lord’s holy people, ...
 
 ---
-<!-- data-background-image="static/bg/" heart -->
+<!-- .slide: data-background-image="static/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
 ## Called to Love (3:17-19, NIV, 2/2)
 ... to **grasp** how wide and long <br/>
 and high and deep is the **love of Christ**,
@@ -158,7 +167,8 @@ of all the fullness of God.
 + 2 pairs + unity
 
 ---
-## Be Completely Humble and Gentle
+<!-- .slide: data-background-image="static/bg/unsplash-12dXKDujs40-horse_bridle.jpg" -->
+## 2. Humility and Gentleness
 + Humble: submit **thinking** / values to God
   + and to each other:
   [Phil 2:3](https://mobile.biblegateway.com/passage/?search=php2.3),
@@ -184,9 +194,10 @@ of all the fullness of God.
 4. *Unity* in the Spirit <span class="hl2">(v3)</span>
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-lQ1uirYz8qI-smoke_flame.jpg" -->
 
-## Be Patient and Forebearing
-+ **Patient**: large-turmoil (boiling, smoke)
+## 3. Patience and Bearing
++ Be **patient**: large-turmoil (boiling)
   + Long-suffering: e.g., forgive debt
   [(Mt18:26)](https://mobile.biblegateway.com/passage/?search=mt18.21-35)
 + **Bearing** with one another in love:
@@ -194,6 +205,13 @@ of all the fullness of God.
 
 >>>
 + dealing with stress
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
+... **bearing** with one another in love
+
+>>>
++ JJ jumping on my tummy, whining
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -210,7 +228,9 @@ of all the fullness of God.
 4. **Unity in the Spirit** <span class="hl2">(v3)</span>
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
 
+## 4. Unity in the Spirit
 Make every **effort** to keep <br/>
 the **unity** of the Spirit <br/>
 through the **bond of peace**.
@@ -227,8 +247,7 @@ through the **bond of peace**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What **divides** us from the world?
-# What divisions are **overcome** in the Spirit?
+# Am I **zealous** for <br/> the unity of the Spirit?
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
