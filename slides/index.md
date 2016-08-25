@@ -95,7 +95,7 @@ of the **calling** you have received.
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 
-## Calling You Received (3:6, NIV)
+## Calling == Identity (3:6, NIV)
 This **mystery** is that through the gospel
 
 the Gentiles are **heirs together** with Israel, <br/>
@@ -115,20 +115,20 @@ members together of **one body**, and <br/>
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
-## Called to Love (3:17-19, NIV, 1/2)
+## Called to Love (3:17-19 NIV, 1/2)
 I pray that you, <br/>
-being **rooted** and established in love,
+being **rooted** and established **in love**,
 
 may have **power**, <br/>
 together with all the Lord’s holy people, ...
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
-## Called to Love (3:17-19, NIV, 2/2)
+## Called to Love (3:17-19 NIV, 2/2)
 ... to **grasp** how wide and long <br/>
 and high and deep is the **love of Christ**,
 
-and to **know** this love that surpasses knowledge --
+and to **know this love** that surpasses knowledge --
 
 that you may be **filled** to the measure <br/>
 of all the fullness of God.
@@ -143,7 +143,7 @@ of all the fullness of God.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# What **defines** you?
+# What **defines** <br/> your identity?
 # What does it mean to live life to the **fullest**?
 
 >>>
