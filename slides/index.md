@@ -1,6 +1,6 @@
 <!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Calling
-## Eph4:1-3 (Thu am)
+## Eph 4:1-3 *(Thu am)*
 ### CECBC Retreat: United
 
 >>>
