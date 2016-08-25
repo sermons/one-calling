@@ -22,6 +22,7 @@
 
 >>>
 + **career**, education?
+  + **vocation** = calling
 + roles in **church**:
   + teacher, helper, music, art?
 + What is God's **calling** for you?
