@@ -236,14 +236,22 @@ the **unity** of the Spirit <br/>
 through the **bond of peace**.
 
 >>>
++ unity of **Spirit**:
+  + Christ **defines** our unity
+  + not friend with **world** (Jam)
 + **effort**: eager, hurry, zeal, take seriously
   + **keep**: guard, treasure, protect
 + **bond**: fetter, cf v1 prisoner in Lord
   + not **free** to do own thing
   + constrained for sake of **peace**
-+ unity of **Spirit**:
-  + Christ **defines** our unity
-  + not friend with **world** (Jam)
+
+---
+<!-- .slide: data-background-image="static/bg/unsplash-8wUVsR-w994-curtain.jpg" -->
+... the **bond** of peace
+
+>>>
++ church aunties: curtains
+  + vs sound equip
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -265,3 +273,4 @@ through the **bond of peace**.
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" class="empty" -->
+
