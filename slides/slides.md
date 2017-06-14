@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 # One Calling
 ## Eph 4:1-3 *(Thu am)*
 ### CECBC Retreat: United
@@ -7,7 +7,7 @@
 [one-calling](http://one-calling.seanho.com/)
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
 ## United (Ephesians 4)
 1. <span class="hl1">Thu am</span>:
   **One Calling** <span class="hl2">(v1-3)</span>
@@ -29,7 +29,7 @@
   + How do we **live up** to it?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 ## Ephesians 4:1-3 (NIV)
 As a **prisoner** for the Lord, then, <br/>
 I urge you to **live** a life **worthy** <br/>
@@ -43,7 +43,7 @@ the **unity** of the Spirit <br/>
 through the **bond of peace**.
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 
 ## Eph4:1-3 One Calling
 1. Worthy of the **Call** <span class="hl2">(v1)</span>
@@ -56,7 +56,7 @@ through the **bond of peace**.
 + but first: what is the call?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 ## 1. Worthy of the Call
 As a **prisoner** for the Lord, then,
 
@@ -83,7 +83,7 @@ of the **calling** you have received.
 </div>
 
 </div><div>
-![Rembrandt, Apostle Paul](static/img/Rembrandt-Apostle_Paul-WGA19120.jpg)
+![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
 </div></div>
 
 >>>
@@ -94,7 +94,7 @@ of the **calling** you have received.
 + **what** is this mystery?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 
 ## Calling == Identity (3:6, NIV)
 This **mystery** is that through the gospel
@@ -115,7 +115,7 @@ members together of **one body**, and <br/>
   + Now we **walk** in it
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
 ## Called to Love (3:17-19 NIV, 1/2)
 I pray that you, <br/>
 being **rooted** and established **in love**,
@@ -124,7 +124,7 @@ may have **power**, <br/>
 together with all the Lord’s holy people, ...
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
 ## Called to Love (3:17-19 NIV, 2/2)
 ... to **grasp** how wide and long <br/>
 and high and deep is the **love of Christ**,
@@ -156,7 +156,7 @@ of all the fullness of God.
   + &Rarr; **love** of Christ
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 
 ## Eph4:1-3 One Calling
 1. Worthy of the *Call* <span class="hl2">(v1)</span>
@@ -168,7 +168,7 @@ of all the fullness of God.
 + 2 pairs + unity
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-12dXKDujs40-horse_bridle.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-12dXKDujs40-horse_bridle.jpg" -->
 ## 2. Humility and Gentleness
 + Humble: submit **thinking** / values to God
   + and to each other:
@@ -186,7 +186,7 @@ of all the fullness of God.
 ## What **thoughts** or **values** <br/> do I need to submit to God?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 
 ## Eph4:1-3 One Calling
 1. Worthy of the *Call* <span class="hl2">(v1)</span>
@@ -195,7 +195,7 @@ of all the fullness of God.
 4. *Unity* in the Spirit <span class="hl2">(v3)</span>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-lQ1uirYz8qI-smoke_flame.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-lQ1uirYz8qI-smoke_flame.jpg" -->
 
 ## 3. Patience and Bearing
 + Be **patient**: large-turmoil (boiling)
@@ -208,7 +208,7 @@ of all the fullness of God.
 + dealing with stress
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
 ... **bearing** with one another in love
 
 >>>
@@ -220,7 +220,7 @@ of all the fullness of God.
 # What if it's from **church**?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 
 ## Eph4:1-3 One Calling
 1. Worthy of the *Call* <span class="hl2">(v1)</span>
@@ -229,7 +229,7 @@ of all the fullness of God.
 4. **Unity in the Spirit** <span class="hl2">(v3)</span>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
 
 ## 4. Unity in the Spirit
 Make every **effort** to keep <br/>
@@ -247,7 +247,7 @@ through the **bond of peace**.
   + constrained for sake of **peace**
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-8wUVsR-w994-curtain.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8wUVsR-w994-curtain.jpg" -->
 ... the **bond** of peace
 
 >>>
@@ -259,7 +259,7 @@ through the **bond of peace**.
 # Am I **zealous** for <br/> the unity of the Spirit?
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
 ## Ephesians 4:1-3 (NIV)
 As a **prisoner** for the Lord, then, <br/>
 I urge you to **live** a life **worthy** <br/>
@@ -273,5 +273,5 @@ the **unity** of the Spirit <br/>
 through the **bond of peace**.
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-DiKkJKvDi64-tree_road.jpg" class="empty" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" class="empty" -->
 
