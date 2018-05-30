@@ -3,7 +3,7 @@
 
 [![Travis-CI build status](https://travis-ci.org/sermons/one-calling.svg)](https://travis-ci.org/sermons/one-calling)
 [![Node dependencies](https://david-dm.org/sermons/one-calling.svg)](https://david-dm.org/sermons/one-calling)
-[![Node dev status](https://david-dm.org/sermons/one-calling/dev-status.svg)](https://david-dm.org/sermons/one-calling#info=devDependencies)
+[![Node dev status](https://david-dm.org/sermons/one-calling/dev-status.svg)](https://david-dm.org/sermons/one-calling?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
