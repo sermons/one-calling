@@ -9,9 +9,9 @@
 ---
 <!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 ## Ephesians 4
-1. **One Calling** <span class="hl2">(v1-3)</span>
-2. **One Body** <span class="hl2">(v11-13)</span>
-3. **One Faith** <span class="hl2">(v14-16)</span>
+1. **One Calling** [(v1-3)](# ref")
+2. *One Body* [(v11-13)](# ref")
+3. *One Faith* [(v14-16)](# ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -256,8 +256,14 @@ through the **bond of peace**.
 # Am I **zealous** for <br/> the unity of the Spirit?
 
 ---
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
+## Ephesians 4
+1. **One Calling** [(v1-3)](# ref")
+2. *One Body* [(v11-13)](# ref")
+3. *One Faith* [(v14-16)](# ref")
+
+---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
-## Ephesians 4:1-3 (NIV)
 As a **prisoner** for the Lord, then, <br/>
 I urge you to **live** a life **worthy** <br/>
 of the **calling** you have received.
@@ -268,6 +274,8 @@ be **patient**, **bearing** with one another in love.
 Make every **effort** to keep <br/>
 the **unity** of the Spirit <br/>
 through the **bond of peace**.
+
+[Ephesians 4:1-3 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="empty" -->
