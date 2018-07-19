@@ -1,14 +1,10 @@
-<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
-# One Calling
-## Eph 4:1-3 (1/3)
-### Choose His Kingdom, Journeying Together
-
->>>
-[one-calling](http://one-calling.seanho.com/)
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> id="title" -->
+# Choose His Kingdom, <br> Journeying Together
+## 1: One Calling (Eph 4:1-3)
 
 ---
-<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
-## Ephesians 4
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
+## Choose His Kingdom, Journeying Together
 1. **One Calling** [(v1-3)](# ref")
 2. *One Body* [(v11-13)](# ref")
 3. *One Faith* [(v14-16)](# ref")
@@ -27,26 +23,28 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
-## Ephesians 4:1-3 (NIV)
 As a **prisoner** for the Lord, then, <br/>
 I urge you to **live** a life **worthy** <br/>
 of the **calling** you have received.
 
+[2](# "ref")
 Be completely **humble** and **gentle**; <br/>
 be **patient**, **bearing** with one another in love.
 
+[3](# "ref")
 Make every **effort** to keep <br/>
 the **unity** of the Spirit <br/>
 through the **bond of peace**.
 
+[Ephesians 4:1-3 (NIV)](# "ref")
+
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
-
-## Eph4:1-3 One Calling
-1. Worthy of the **Call** <span class="hl2">(v1)</span>
-2. **Humility** and Gentleness <span class="hl2">(v2a)</span>
-3. **Patience** and Bearing <span class="hl2">(v2b)</span>
-4. **Unity** in the Spirit <span class="hl2">(v3)</span>
+## One Calling
+1. Worthy of the **Call** [(v1)](# "ref")
+2. **Humility** and Gentleness [(v2a)](# "ref")
+3. **Patience** and Bearing [(v2b)](# "ref")
+4. **Unity** in the Spirit [(v3)](# "ref")
 
 >>>
 + 3 areas of application
@@ -54,23 +52,22 @@ through the **bond of peace**.
 
 ---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
-## 1. Worthy of the Call
 As a **prisoner** for the Lord, then,
 
 I urge you to **live** a life **worthy** <br/>
 of the **calling** you have received.
+
+[Ephesians 4:1](# "ref")
 
 ---
 ## Prisoner for the Lord
 
 <div class="imgbox"><div>
 <ul>
-<li> [3:1](https://mobile.biblegateway.com/passage/?search=eph3.1)
-  for the sake of us **Gentiles**</li><ul>
-  <li> (Arrest in [Ac21](https://mobile.biblegateway.com/passage/?search=ac21.27-29) ) </li>
+<li> [3:1](# "ref") for the sake of us **Gentiles**</li><ul>
+  <li> (Arrest in [Ac21](# "ref"))</li>
   </ul>
-<li> [3:7](https://mobile.biblegateway.com/passage/?search=eph3.7)
-  servant of **gospel**</li>
+<li> [3:7](# "ref") servant of **gospel**</li>
 </ul>
 
 <p/>
@@ -78,7 +75,6 @@ of the **calling** you have received.
 [Rembrandt, "Apostle Paul"](http://bilddatenbank.khm.at/viewArtefact?id=1514),
 ~1633 (Kunsthistorisches Museum, Vienna)
 </div>
-
 </div><div>
 ![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
 </div></div>
@@ -92,15 +88,16 @@ of the **calling** you have received.
 
 ---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
-
-## Calling == Identity (3:6, NIV)
 This **mystery** is that through the gospel
 
 the Gentiles are **heirs together** with Israel, <br/>
 members together of **one body**, and <br/>
 **sharers** together in the **promise** in Christ Jesus.
 
+[Ephesians 3:6 (NIV)](# "ref")
+
 >>>
++ Calling == Identity
 + Call: defn by Creator
 + cross ethnic/**cultural**/nation
   + **churched** vs unchurched
@@ -113,16 +110,19 @@ members together of **one body**, and <br/>
 
 ---
 <!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
-## Called to Love (3:17-19 NIV, 1/2)
 I pray that you, <br/>
 being **rooted** and established **in love**,
 
 may have **power**, <br/>
 together with all the Lord’s holy people, ...
 
+[Ephesians 3:17-19 (NIV) (p.1/2)](# "ref")
+
+>>>
++ Called to Love
+
 ---
 <!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
-## Called to Love (3:17-19 NIV, 2/2)
 ... to **grasp** how wide and long <br/>
 and high and deep is the **love of Christ**,
 
@@ -130,6 +130,8 @@ and to **know this love** that surpasses knowledge --
 
 that you may be **filled** to the measure <br/>
 of all the fullness of God.
+
+[Ephesians 3:17-19 (NIV) (p.2/2)](# "ref")
 
 >>>
 + Objective is **love** of Christ:
@@ -154,28 +156,22 @@ of all the fullness of God.
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
-
-## Eph4:1-3 One Calling
-1. Worthy of the *Call* <span class="hl2">(v1)</span>
-2. **Humility and Gentleness** <span class="hl2">(v2a)</span>
-3. *Patience* and Bearing <span class="hl2">(v2b)</span>
-4. *Unity* in the Spirit <span class="hl2">(v3)</span>
+## One Calling
+1. Worthy of the *Call* [(v1)](# "ref")
+2. **Humility and Gentleness** [(v2a)](# "ref")
+3. *Patience* and Bearing [(v2b)](# "ref")
+4. *Unity* in the Spirit [(v3)](# "ref")
 
 >>>
 + 2 pairs + unity
 
 ---
 <!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
-## 2. Humility and Gentleness
 + Humble: submit **thinking** / values to God
-  + and to each other:
-  [Phil 2:3](https://mobile.biblegateway.com/passage/?search=php2.3),
-  [Eph 5:21](https://mobile.biblegateway.com/passage/?search=eph5.21)
+  + and to each other: [Phil 2:3](# "ref") [Eph 5:21](# "ref")
 + Gentle: **meek** is not weak!
-  + inherit the earth
-  [(Mt 5:5)](https://mobile.biblegateway.com/passage/?search=mt5.5)
-  + learn from Jesus
-  [(Mt 11:29)](https://mobile.biblegateway.com/passage/?search=mt11.29)
+  + inherit the earth [(Mt 5:5)](# "ref")
+  + learn from Jesus [(Mt 11:29)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -184,20 +180,17 @@ of all the fullness of God.
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
-
-## Eph4:1-3 One Calling
-1. Worthy of the *Call* <span class="hl2">(v1)</span>
-2. *Humility* and Gentleness <span class="hl2">(v2a)</span>
-3. **Patience and Bearing** <span class="hl2">(v2b)</span>
-4. *Unity* in the Spirit <span class="hl2">(v3)</span>
+## One Calling
+1. Worthy of the *Call* [(v1)](# "ref")
+2. *Humility* and Gentleness [(v2a)](# "ref")
+3. **Patience and Bearing** [(v2b)](# "ref")
+4. *Unity* in the Spirit [(v3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-lQ1uirYz8qI-smoke_flame.jpg") %> -->
-
-## 3. Patience and Bearing
 + Be **patient**: large-turmoil (boiling)
   + Long-suffering: e.g., forgive debt
-  [(Mt18:26)](https://mobile.biblegateway.com/passage/?search=mt18.21-35)
+  [(Mt18:26)](# "ref")
 + **Bearing** with one another in love:
   + endure, tolerate, put up with
 
@@ -218,17 +211,14 @@ of all the fullness of God.
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
-
-## Eph4:1-3 One Calling
-1. Worthy of the *Call* <span class="hl2">(v1)</span>
-2. *Humility* and Gentleness <span class="hl2">(v2a)</span>
-3. *Patience* and Bearing <span class="hl2">(v2b)</span>
-4. **Unity in the Spirit** <span class="hl2">(v3)</span>
+## One Calling
+1. Worthy of the *Call* [(v1)](# "ref")
+2. *Humility* and Gentleness [(v2a)](# "ref")
+3. *Patience* and Bearing [(v2b)](# "ref")
+4. **Unity in the Spirit** [(v3)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
-
-## 4. Unity in the Spirit
 Make every **effort** to keep <br/>
 the **unity** of the Spirit <br/>
 through the **bond of peace**.
@@ -256,7 +246,7 @@ through the **bond of peace**.
 # Am I **zealous** for <br/> the unity of the Spirit?
 
 ---
-<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 ## Ephesians 4
 1. **One Calling** [(v1-3)](# ref")
 2. *One Body* [(v11-13)](# ref")
