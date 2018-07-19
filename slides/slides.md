@@ -1,21 +1,21 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 # One Calling
-## Ephesians 4:1-3
-### Part 1 of 3
+## Eph 4:1-3 (1/3)
+### Choose His Kingdom, Journeying Together
 
 >>>
 [one-calling](http://one-calling.seanho.com/)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-mE5MBZX5sko-leaves.jpg" -->
+<!-- .slide: <%= bg("unsplash-mE5MBZX5sko-leaves.jpg") %> -->
 ## Ephesians 4
 1. **One Calling** <span class="hl2">(v1-3)</span>
 2. **One Body** <span class="hl2">(v11-13)</span>
 3. **One Faith** <span class="hl2">(v14-16)</span>
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
-# What is God's **calling** for you?
+<!-- .slide: data-background="white" -->
+# How do we know God's **calling** for us?
 
 >>>
 + **career**, education?
@@ -26,7 +26,7 @@
   + How do we **live up** to it?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 ## Ephesians 4:1-3 (NIV)
 As a **prisoner** for the Lord, then, <br/>
 I urge you to **live** a life **worthy** <br/>
@@ -40,7 +40,7 @@ the **unity** of the Spirit <br/>
 through the **bond of peace**.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 
 ## Eph4:1-3 One Calling
 1. Worthy of the **Call** <span class="hl2">(v1)</span>
@@ -53,7 +53,7 @@ through the **bond of peace**.
 + but first: what is the call?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 ## 1. Worthy of the Call
 As a **prisoner** for the Lord, then,
 
@@ -91,7 +91,7 @@ of the **calling** you have received.
 + **what** is this mystery?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
 
 ## Calling == Identity (3:6, NIV)
 This **mystery** is that through the gospel
@@ -112,7 +112,7 @@ members together of **one body**, and <br/>
   + Now we **walk** in it
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
+<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
 ## Called to Love (3:17-19 NIV, 1/2)
 I pray that you, <br/>
 being **rooted** and established **in love**,
@@ -121,7 +121,7 @@ may have **power**, <br/>
 together with all the Lord’s holy people, ...
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
+<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
 ## Called to Love (3:17-19 NIV, 2/2)
 ... to **grasp** how wide and long <br/>
 and high and deep is the **love of Christ**,
@@ -140,8 +140,8 @@ of all the fullness of God.
 + **Fulfil** potential: life to fullest
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
-# What **defines** <br/> your identity?
+<!-- .slide: data-background="white" -->
+# What **defines** you?
 # What does it mean to live life to the **fullest**?
 
 >>>
@@ -153,7 +153,7 @@ of all the fullness of God.
   + &Rarr; **love** of Christ
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 
 ## Eph4:1-3 One Calling
 1. Worthy of the *Call* <span class="hl2">(v1)</span>
@@ -165,7 +165,7 @@ of all the fullness of God.
 + 2 pairs + unity
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-12dXKDujs40-horse_bridle.jpg" -->
+<!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
 ## 2. Humility and Gentleness
 + Humble: submit **thinking** / values to God
   + and to each other:
@@ -178,12 +178,12 @@ of all the fullness of God.
   [(Mt 11:29)](https://mobile.biblegateway.com/passage/?search=mt11.29)
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 ## Have I ever been **sure** I was **right**, <br/> but I was actually **wrong**?
 ## What **thoughts** or **values** <br/> do I need to submit to God?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 
 ## Eph4:1-3 One Calling
 1. Worthy of the *Call* <span class="hl2">(v1)</span>
@@ -192,7 +192,7 @@ of all the fullness of God.
 4. *Unity* in the Spirit <span class="hl2">(v3)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-lQ1uirYz8qI-smoke_flame.jpg" -->
+<!-- .slide: <%= bg("unsplash-lQ1uirYz8qI-smoke_flame.jpg") %> -->
 
 ## 3. Patience and Bearing
 + Be **patient**: large-turmoil (boiling)
@@ -205,19 +205,19 @@ of all the fullness of God.
 + dealing with stress
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-XtOKVEyHP2s-boys_jump.jpg" -->
+<!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
 ... **bearing** with one another in love
 
 >>>
 + JJ jumping on my tummy, whining
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # How do I handle **stress**?
 # What if it's from **church**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 
 ## Eph4:1-3 One Calling
 1. Worthy of the *Call* <span class="hl2">(v1)</span>
@@ -226,7 +226,7 @@ of all the fullness of God.
 4. **Unity in the Spirit** <span class="hl2">(v3)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 
 ## 4. Unity in the Spirit
 Make every **effort** to keep <br/>
@@ -244,7 +244,7 @@ through the **bond of peace**.
   + constrained for sake of **peace**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8wUVsR-w994-curtain.jpg" -->
+<!-- .slide: <%= bg("unsplash-8wUVsR-w994-curtain.jpg") %> -->
 ... the **bond** of peace
 
 >>>
@@ -252,11 +252,11 @@ through the **bond of peace**.
   + vs sound equip
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Am I **zealous** for <br/> the unity of the Spirit?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 ## Ephesians 4:1-3 (NIV)
 As a **prisoner** for the Lord, then, <br/>
 I urge you to **live** a life **worthy** <br/>
@@ -270,5 +270,5 @@ the **unity** of the Spirit <br/>
 through the **bond of peace**.
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DiKkJKvDi64-tree_road.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="empty" -->
 
