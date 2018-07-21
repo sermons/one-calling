@@ -163,7 +163,7 @@ of all the fullness of God.
 + **Empowered** in Spirit
 + **Attain** immensity Christ's love
   + Experiential **knowledge**
-+ **Fulfil** potential: life to fullest
++ **Living** to the fullest: fulfil potential
 
 ---
 <!-- .slide: data-background="white" -->
