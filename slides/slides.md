@@ -229,8 +229,6 @@ be **patient**, **bearing** with one another in love.
   [(Mt18:26)](# "ref")
 + **Bearing** with one another in love:
   + endure, tolerate, put up with
-
->>>
 + dealing with stress
 
 ---
