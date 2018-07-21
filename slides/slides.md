@@ -4,26 +4,38 @@
 ### Choose His *Kingdom*, <br> Journey *Together*
 
 ---
+<!-- .slide: data-background="white" -->
+# What choices **define** me?
+
+>>>
++ **choices** can define us:
++ choices we make for **ourselves**:
+  + major, **career** path
+  + **friends** we associate with
+  + whom we **marry**
++ choices **others** make for us:
+  + what our **parents** are like
+  + how we were **raised**
+  + **trauma** we experience
++ e.g. CS prof trans-gender
++ single most **defining** choice:
+  + Jesus chose to **redeem** you!
++ how does His choice **transform** our lives?
+  + how should it transform our **community**
+
+---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
 ## Choose His Kingdom, Journey Together
 1. **One Calling** [(v1-3)](# ref")
 2. One *Body* [(v11-13)](# ref")
 3. One *Faith* [(v14-16)](# ref")
 
----
-<!-- .slide: data-background="white" -->
-# How do we discern our **calling**?
-
 >>>
-+ **career**, education?
-  + **vocation** = calling
-+ roles in **church**:
-  + teacher, helper, music, art?
 + What is God's **calling** for you?
   + How do we **live up** to it?
+  + **vocation** = calling
 
 ---
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 As a **prisoner** for the Lord, then, <br/>
 I urge you to **live** a life **worthy** <br/>
 of the **calling** you have received.
@@ -155,7 +167,7 @@ of all the fullness of God.
 
 ---
 <!-- .slide: data-background="white" -->
-# What **defines** me?
+# What is God's **calling**?
 # What does it mean to live life to the **fullest**?
 
 >>>
