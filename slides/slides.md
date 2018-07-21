@@ -53,7 +53,7 @@ through the **bond of peace**.
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
-## One Calling
+## One Calling [(Eph4)](# "ref")
 1. Worthy of the **Call** [(v1)](# "ref")
 2. **Humility** and Gentleness [(v2a)](# "ref")
 3. **Patience** and Bearing [(v2b)](# "ref")
@@ -138,7 +138,7 @@ I pray that you, <br/>
 being **rooted** and established **in love**,
 
 may have **power**, <br/>
-together with all the Lord’s holy people, ...
+together with **all** the Lord’s holy people, ...
 
 [Ephesians 3:17-19 (NIV) (p.1/2)](# "ref")
 
@@ -180,7 +180,7 @@ of all the fullness of God.
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
-## One Calling
+## One Calling [(Eph4)](# "ref")
 1. Worthy of the *Call* [(v1)](# "ref")
 2. **Humility and Gentleness** [(v2a)](# "ref")
 3. *Patience* and Bearing [(v2b)](# "ref")
@@ -191,10 +191,9 @@ of all the fullness of God.
 
 ---
 <!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
-Be completely **humble** and **gentle**; <br/>
-be patient, bearing with one another in love.
+Be completely **humble** and **gentle**
 
-[Ephesians 4:2 (NIV)](# "ref")
+[Ephesians 4:2a (NIV)](# "ref")
 
 >>>
 + Humble: submit **thinking** / values to God
@@ -205,12 +204,14 @@ be patient, bearing with one another in love.
 
 ---
 <!-- .slide: data-background="white" -->
-## Have I ever been **sure** I was **right**, <br/> but I was actually **wrong**?
 ## What **thoughts** or **values** <br/> do I need to submit to God?
+
+>>>
++ Have I ever been **sure** I was **right**, but I was actually **wrong**?
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
-## One Calling
+## One Calling [(Eph4)](# "ref")
 1. Worthy of the *Call* [(v1)](# "ref")
 2. *Humility* and Gentleness [(v2a)](# "ref")
 3. **Patience and Bearing** [(v2b)](# "ref")
@@ -218,10 +219,9 @@ be patient, bearing with one another in love.
 
 ---
 <!-- .slide: <%= bg("unsplash-lQ1uirYz8qI-smoke_flame.jpg") %> -->
-Be completely humble and gentle; <br/>
 be **patient**, **bearing** with one another in love.
 
-[Ephesians 4:2 (NIV)](# "ref")
+[Ephesians 4:2b (NIV)](# "ref")
 
 >>>
 + Be **patient**: large-turmoil (boiling)
@@ -247,7 +247,7 @@ be **patient**, **bearing** with one another in love.
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
-## One Calling
+## One Calling [(Eph4)](# "ref")
 1. Worthy of the *Call* [(v1)](# "ref")
 2. *Humility* and Gentleness [(v2a)](# "ref")
 3. *Patience* and Bearing [(v2b)](# "ref")
