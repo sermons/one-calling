@@ -12,7 +12,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How do we discern God's **calling**?
+# How do we discern our **calling**?
 
 >>>
 + **career**, education?
@@ -53,32 +53,29 @@ through the **bond of peace**.
 
 ---
 <!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
-As a **prisoner** for the Lord, then,
-
-I urge you to **live** a life **worthy** <br/>
-of the **calling** you have received.
+As a **prisoner** for the Lord, then
 
 [Ephesians 4:1](# "ref")
+
+>>>
++ context: Paul a **prisoner**?
 
 ---
 ## Prisoner for the Lord
 
 <div class="imgbox"><div>
 <ul>
-<li> [3:1](# "ref") for the sake of us **Gentiles**</li><ul>
-  <li> (Arrest in [Ac21](# "ref"))</li>
+<li> on behalf of us **Gentiles** [3:1](# "ref")</li><ul>
+  <li> arrested in [Ac21](# "ref")</li>
   </ul>
-<li> [3:7](# "ref") servant of **gospel**</li>
+<li> servant of **gospel** [3:7](# "ref")</li>
+<li> bring to light the **mystery** in God 
+  [3:9](# "ref")</li>
 </ul>
-
-<p/>
-<div class="caption">
-[Rembrandt, "Apostle Paul"](http://bilddatenbank.khm.at/viewArtefact?id=1514),
-~1633 (Kunsthistorisches Museum, Vienna)
-</div>
 </div><div>
 ![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
 </div></div>
+[Rembrandt, "Apostle Paul", ~1633 (Kunsthistorisches Museum, Vienna)](http://bilddatenbank.khm.at/viewArtefact?id=1514 "caption")
 
 >>>
 + **prisoner**: bound, not free
@@ -107,7 +104,21 @@ members together of **one body**, and <br/>
   + co-**body** (σύσσωμα)
   + co-**sharers** (συμμέτοχα)
 + Already **done** in Christ!
-  + Now we **walk** in it
+  + bring us back to **ch4**:
+
+---
+<!-- .slide: <%= bg("unsplash-SrlmVWkVfJM-cross.jpg") %> -->
+I urge you to **live** a life **worthy** <br/>
+of the **calling** you have received.
+
+[Ephesians 4:1](# "ref")
+
+>>>
++ Christ has **already** made us
+  + **heirs**, body, share
++ **defined** who we are
++ now **walk** worthily
++ what was Paul's **prayer** for Ephesians? 
 
 ---
 <!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
@@ -144,7 +155,7 @@ of all the fullness of God.
 
 ---
 <!-- .slide: data-background="white" -->
-# What **defines** you?
+# What **defines** me?
 # What does it mean to live life to the **fullest**?
 
 >>>
@@ -168,6 +179,12 @@ of all the fullness of God.
 
 ---
 <!-- .slide: <%= bg("unsplash-12dXKDujs40-horse_bridle.jpg") %> -->
+Be completely **humble** and **gentle**; <br/>
+be patient, bearing with one another in love.
+
+[Ephesians 4:2 (NIV)](# "ref")
+
+>>>
 + Humble: submit **thinking** / values to God
   + and to each other: [Phil 2:3](# "ref") [Eph 5:21](# "ref")
 + Gentle: **meek** is not weak!
@@ -189,6 +206,12 @@ of all the fullness of God.
 
 ---
 <!-- .slide: <%= bg("unsplash-lQ1uirYz8qI-smoke_flame.jpg") %> -->
+Be completely humble and gentle; <br/>
+be **patient**, **bearing** with one another in love.
+
+[Ephesians 4:2 (NIV)](# "ref")
+
+>>>
 + Be **patient**: large-turmoil (boiling)
   + Long-suffering: e.g., forgive debt
   [(Mt18:26)](# "ref")
@@ -207,7 +230,7 @@ of all the fullness of God.
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I handle **stress**?
+# How do I cope with **stress**?
 # What if it's from **church**?
 
 ---
