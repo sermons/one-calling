@@ -1,6 +1,7 @@
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> id="title" -->
-# Choose His Kingdom, <br> Journeying Together
-## 1: One Calling (Eph 4:1-3)
+# One **Calling** (1/3)
+## Ephesians 4:1-3
+### Choose His *Kingdom*, <br> Journey *Together*
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
