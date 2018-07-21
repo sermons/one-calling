@@ -239,6 +239,7 @@ be **patient**, **bearing** with one another in love.
 
 >>>
 + JJ jumping on my tummy, whining
++ sometimes just **not exploding** is a win
 
 ---
 <!-- .slide: data-background="white" -->
