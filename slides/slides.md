@@ -1,10 +1,10 @@
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> id="title" -->
-# One **Calling** (1/3)
-## Ephesians 4:1-3
+# One **Calling**
+## (1) Ephesians 4:1-3
 ### Choose His *Kingdom*, <br> Journey *Together*
 
 ---
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
 ## Choose His Kingdom, Journeying Together
 1. **One Calling** [(v1-3)](# ref")
 2. *One Body* [(v11-13)](# ref")
@@ -12,7 +12,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How do we know God's **calling** for us?
+# How do we discern God's **calling**?
 
 >>>
 + **career**, education?
@@ -40,7 +40,7 @@ through the **bond of peace**.
 [Ephesians 4:1-3 (NIV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
 ## One Calling
 1. Worthy of the **Call** [(v1)](# "ref")
 2. **Humility** and Gentleness [(v2a)](# "ref")
@@ -156,7 +156,7 @@ of all the fullness of God.
   + &Rarr; **love** of Christ
 
 ---
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
 ## One Calling
 1. Worthy of the *Call* [(v1)](# "ref")
 2. **Humility and Gentleness** [(v2a)](# "ref")
@@ -180,7 +180,7 @@ of all the fullness of God.
 ## What **thoughts** or **values** <br/> do I need to submit to God?
 
 ---
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
 ## One Calling
 1. Worthy of the *Call* [(v1)](# "ref")
 2. *Humility* and Gentleness [(v2a)](# "ref")
@@ -211,7 +211,7 @@ of all the fullness of God.
 # What if it's from **church**?
 
 ---
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
 ## One Calling
 1. Worthy of the *Call* [(v1)](# "ref")
 2. *Humility* and Gentleness [(v2a)](# "ref")
@@ -247,8 +247,8 @@ through the **bond of peace**.
 # Am I **zealous** for <br/> the unity of the Spirit?
 
 ---
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
-## Ephesians 4
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
+## Choose His Kingdom, Journeying Together
 1. **One Calling** [(v1-3)](# ref")
 2. *One Body* [(v11-13)](# ref")
 3. *One Faith* [(v14-16)](# ref")
