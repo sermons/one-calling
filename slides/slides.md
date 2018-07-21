@@ -7,8 +7,8 @@
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
 ## Choose His Kingdom, Journeying Together
 1. **One Calling** [(v1-3)](# ref")
-2. *One Body* [(v11-13)](# ref")
-3. *One Faith* [(v14-16)](# ref")
+2. One *Body* [(v11-13)](# ref")
+3. One *Faith* [(v14-16)](# ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -250,8 +250,8 @@ through the **bond of peace**.
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
 ## Choose His Kingdom, Journeying Together
 1. **One Calling** [(v1-3)](# ref")
-2. *One Body* [(v11-13)](# ref")
-3. *One Faith* [(v14-16)](# ref")
+2. One *Body* [(v11-13)](# ref")
+3. One *Faith* [(v14-16)](# ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
