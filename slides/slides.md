@@ -1,7 +1,6 @@
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> id="title" -->
 # One **Calling**
-## (1) Ephesians 4:1-3
-### Choose His *Kingdom*, <br> Journey *Together*
+## Ephesians 4:1-3
 
 ---
 <!-- .slide: data-background="white" -->
@@ -23,33 +22,9 @@
 + how does His choice **transform** our lives?
   + how should it transform our **community**
 
----
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
-## Choose His Kingdom, Journey Together
-1. **One Calling** [(v1-3)](# "ref")
-2. One *Body* [(v11-13)](# "ref")
-3. One *Faith* [(v14-16)](# "ref")
-
->>>
 + What is God's **calling** for you?
   + How do we **live up** to it?
   + **vocation** = calling
-
----
-As a **prisoner** for the Lord, then, <br/>
-I urge you to **live** a life **worthy** <br/>
-of the **calling** you have received.
-
-[2](# "ref")
-Be completely **humble** and **gentle**; <br/>
-be **patient**, **bearing** with one another in love.
-
-[3](# "ref")
-Make every **effort** to keep <br/>
-the **unity** of the Spirit <br/>
-through the **bond of peace**.
-
-[Ephesians 4:1-3 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
@@ -76,18 +51,19 @@ As a **prisoner** for the Lord, then
 ## Prisoner for the Lord
 
 <div class="imgbox"><div>
-<ul>
-<li> on behalf of us **Gentiles** [3:1](# "ref")</li><ul>
-  <li> arrested in [Ac21](# "ref")</li>
-  </ul>
-<li> servant of **gospel** [3:7](# "ref")</li>
-<li> bring to light the **mystery** in God 
-  [3:9](# "ref")</li>
-</ul>
+
++ on behalf of **Gentiles** [(3:1)](# "ref")
+  + arrested in [Ac21](# "ref")
++ servant of **gospel** [(3:7)](# "ref")
++ proclaim **mystery** in God [(3:9)](# "ref")
+
 </div><div>
+
 ![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
+
 </div></div>
-[Rembrandt, "Apostle Paul", ~1633 (Kunsthistorisches Museum, Vienna)](http://bilddatenbank.khm.at/viewArtefact?id=1514 "caption")
+
+[Rembrandt, "Apostle Paul", ~1633 <br/> (Kunsthistorisches Museum, Vienna)](http://bilddatenbank.khm.at/viewArtefact?id=1514 "caption")
 
 >>>
 + **prisoner**: bound, not free
@@ -279,28 +255,6 @@ through the **bond of peace**.
 ---
 <!-- .slide: data-background="white" -->
 # Am I **zealous** for <br/> the unity of the Spirit?
-
----
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="outline" -->
-## Choose His Kingdom, Journey Together
-1. **One Calling** [(v1-3)](# "ref")
-2. One *Body* [(v11-13)](# "ref")
-3. One *Faith* [(v14-16)](# "ref")
-
----
-<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
-As a **prisoner** for the Lord, then, <br/>
-I urge you to **live** a life **worthy** <br/>
-of the **calling** you have received.
-
-Be completely **humble** and **gentle**; <br/>
-be **patient**, **bearing** with one another in love.
-
-Make every **effort** to keep <br/>
-the **unity** of the Spirit <br/>
-through the **bond of peace**.
-
-[Ephesians 4:1-3 (NIV)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="empty" -->
