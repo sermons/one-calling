@@ -109,7 +109,7 @@ of the **calling** you have received.
 + what was Paul's **prayer** for Ephesians? 
 
 ---
-<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> -->
 I pray that you, <br/>
 being **rooted** and established **in love**,
 
@@ -117,16 +117,18 @@ may have **power**, <br/>
 together with **all** the Lord’s holy people, ...
 
 [Ephesians 3:17-19 (NIV) (p.1/2)](# "ref")
+[Warsaw, Poland. FreeStocks](https://unsplash.com/photos/r_oV6smBBYk/info "caption")
 
 >>>
 + Called to Love
 
 ---
-<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> -->
 ... to **grasp** how wide and long <br/>
 and high and deep is the **love of Christ**,
 
-and to **know this love** that surpasses knowledge --
+and to **know this love** <br/>
+that surpasses knowledge --
 
 that you may be **filled** to the measure <br/>
 of all the fullness of God.
@@ -143,8 +145,8 @@ of all the fullness of God.
 
 ---
 <!-- .slide: data-background="white" -->
-# What is God's **calling**?
-# What does it mean to live life to the **fullest**?
+# What is God's **calling**? <br/> What does it mean to <br/> live life to the **fullest**?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **job**, talent, hobbies, family?
@@ -176,7 +178,9 @@ Be completely **humble** and **gentle**
   + and to each other: [Phil 2:3](# "ref") [Eph 5:21](# "ref")
 + Gentle: **meek** is not weak!
   + inherit the earth [(Mt 5:5)](# "ref")
-  + learn from Jesus [(Mt 11:29)](# "ref")
++ e.g., thoroughbred **horses**
+  + power under **control**
++ learn from **Jesus** [(Mt 11:29)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> -->
@@ -228,6 +232,10 @@ your fellow servant, as I had mercy on you?"
 
 [Matthew 18:26,33 (ESV)](# "ref")
 [udit saptarshi](https://unsplash.com/photos/mYT03hytMcU "caption")
+
+>>>
++ owed 200k yrs wages ($Bs)
+  + was owed 100d wages ($ks)
 
 ---
 <!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
@@ -282,6 +290,7 @@ through the **bond of peace**.
 ---
 <!-- .slide: data-background="white" -->
 # Am I **zealous** for <br/> the unity of the Spirit?
+<!-- .element: class="r-fit-text" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> class="empty" -->
