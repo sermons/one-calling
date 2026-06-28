@@ -50,14 +50,14 @@ As a **prisoner** for the Lord, then
 ---
 ## Prisoner for the Lord
 
-<div class="imgbox"><div>
+<div class="imgbox"><div style="flex:3">
 
-+ on behalf of **Gentiles** [(3:1)](# "ref")
-  + arrested in [Ac21](# "ref")
-+ servant of **gospel** [(3:7)](# "ref")
-+ proclaim **mystery** in God [(3:9)](# "ref")
++ On behalf of **Gentiles** [(3:1)](# "ref")
+  + (arrested in [Ac21](# "ref"))
++ Servant of **gospel** [(3:7)](# "ref")
++ Proclaim **mystery** in God [(3:9)](# "ref")
 
-</div><div>
+</div><div style="flex:2">
 
 ![Rembrandt, Apostle Paul](https://sermons.seanho.com/img/fig/Rembrandt-Apostle_Paul-WGA19120.jpg)
 
@@ -77,8 +77,8 @@ As a **prisoner** for the Lord, then
 This **mystery** is that through the gospel
 
 the Gentiles are **heirs together** with Israel, <br/>
-members together of **one body**, and <br/>
-**sharers** together in the **promise** in Christ Jesus.
+**members together** of one body, and <br/>
+**sharers together** in the promise in Christ Jesus.
 
 [Ephesians 3:6 (NIV)](# "ref")
 
@@ -179,6 +179,7 @@ Be completely **humble** and **gentle**
   + learn from Jesus [(Mt 11:29)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-G7rLW02g3ZI-mist_lake.jpg") %> -->
 Have this **mind** among yourselves, <br/>
 which is yours in **Christ Jesus**, 
 
@@ -190,6 +191,7 @@ but **emptied** himself, <br/>
 by taking the form of a **servant**
 
 [Philippians 2:5-7 (ESV)](# "ref")
+[Joffre Lakes Trail, BC. Kevin Mueller](https://unsplash.com/photos/G7rLW02g3ZI "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -214,17 +216,27 @@ be **patient**, **bearing** with one another in love.
 
 >>>
 + Be **patient**: large-turmoil (boiling)
-  + Long-suffering: e.g., forgive debt
-  [(Mt18:26)](# "ref")
-+ **Bearing** with one another in love:
-  + endure, tolerate, put up with
-+ dealing with stress
++ Long-suffering: e.g., forgive debt
+
+---
+<!-- .slide: <%= bg("unsplash-mYT03hytMcU-old_coins.jpg") %> -->
+"Have **patience** with me, <br/>
+and I will pay you everything."
+
+"Should not you have had **mercy** on <br/>
+your fellow servant, as I had mercy on you?"
+
+[Matthew 18:26,33 (ESV)](# "ref")
+[udit saptarshi](https://unsplash.com/photos/mYT03hytMcU "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-XtOKVEyHP2s-boys_jump.jpg") %> -->
 ... **bearing** with one another in love
 
 >>>
++ **Bearing** with one another in love:
+  + endure, tolerate, put up with
++ dealing with stress
 + JJ jumping on my tummy, whining
 + sometimes just **not exploding** is a win
 
@@ -248,11 +260,13 @@ the **unity** of the Spirit <br/>
 through the **bond of peace**.
 
 >>>
-+ unity of **Spirit**:
-  + Christ **defines** our unity
-  + not friend with **world** (Jam)
 + **effort**: eager, hurry, zeal, take seriously
   + **keep**: guard, treasure, protect
++ unity of **Spirit**:
+  + those in **power** misuse unity
+  + to justify **abuse** of power
++ Christ **defines** our unity
+  + not friend with **world** (Jam)
 + **bond**: fetter, cf v1 prisoner in Lord
   + not **free** to do own thing
   + constrained for sake of **peace**
