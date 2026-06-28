@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> id="title" -->
-# One **Calling**
+# One Calling
 ## Ephesians 4:1-3
 
 ---
@@ -177,6 +177,19 @@ Be completely **humble** and **gentle**
 + Gentle: **meek** is not weak!
   + inherit the earth [(Mt 5:5)](# "ref")
   + learn from Jesus [(Mt 11:29)](# "ref")
+
+---
+Have this **mind** among yourselves, <br/>
+which is yours in **Christ Jesus**, 
+
+who, though he was in the **form** of God, <br/>
+did not count **equality** with God <br/>
+a thing to be **grasped**,
+
+but **emptied** himself, <br/>
+by taking the form of a **servant**
+
+[Philippians 2:5-7 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
